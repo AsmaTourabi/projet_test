@@ -1,1 +1,1 @@
-public class Lina {}
+public class Lina {test}
